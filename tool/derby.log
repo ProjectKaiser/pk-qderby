@@ -1,6 +1,6 @@
 ----------------------------------------------------------------
-Sat Dec 09 19:42:20 MSK 2017:
-Booting Derby version The Apache Software Foundation - Apache Derby - 10.8.1.2 - (1095077): instance a816c00e-0160-3c27-f793-00000e624d70 
+Thu Dec 14 19:26:11 MSK 2017:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.8.1.2 - (1095077): instance a816c00e-0160-55d8-f926-00000e620cb8 
 on database directory K:\Products\triniforce\bin\dbs\derby  with class loader sun.misc.Launcher$AppClassLoader@5c647e05 
 Loaded from file:/E:/workspace/pk-qderby/tool/derby.jar
 java.vendor=Oracle Corporation
@@ -9,11 +9,11 @@ user.dir=E:\workspace\pk-qderby\tool
 derby.system.home=null
 Database Class Loader started - derby.database.classpath=''
 ----------------------------------------------------------------
-Sat Dec 09 19:42:20 MSK 2017:
-Shutting down instance a816c00e-0160-3c27-f793-00000e624d70 on database directory K:\Products\triniforce\bin\dbs\derby with class loader sun.misc.Launcher$AppClassLoader@5c647e05 
+Thu Dec 14 19:26:11 MSK 2017:
+Shutting down instance a816c00e-0160-55d8-f926-00000e620cb8 on database directory K:\Products\triniforce\bin\dbs\derby with class loader sun.misc.Launcher$AppClassLoader@5c647e05 
 ----------------------------------------------------------------
-Sat Dec 09 19:42:20 MSK 2017:
-Booting Derby version The Apache Software Foundation - Apache Derby - 10.8.1.2 - (1095077): instance 601a400f-0160-3c27-f793-00000e624d70 
+Thu Dec 14 19:26:11 MSK 2017:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.8.1.2 - (1095077): instance 601a400f-0160-55d8-f926-00000e620cb8 
 on database directory K:\Products\triniforce\bin\dbs\derby  with class loader sun.misc.Launcher$AppClassLoader@5c647e05 
 Loaded from file:/E:/workspace/pk-qderby/tool/derby.jar
 java.vendor=Oracle Corporation
@@ -21,3 +21,9 @@ java.runtime.version=1.8.0_144-b01
 user.dir=E:\workspace\pk-qderby\tool
 derby.system.home=null
 Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Thu Dec 14 19:26:11 MSK 2017: Shutting down Derby engine
+----------------------------------------------------------------
+Thu Dec 14 19:26:11 MSK 2017:
+Shutting down instance 601a400f-0160-55d8-f926-00000e620cb8 on database directory K:\Products\triniforce\bin\dbs\derby with class loader sun.misc.Launcher$AppClassLoader@5c647e05 
+----------------------------------------------------------------
